@@ -1,0 +1,37 @@
+﻿id,texto,etiqueta,origen,idioma
+M010,Recomiendo este servicio por su calidad.,positivo,sintetico_manual,es
+M013,Quiero conocer el horario de atención.,neutral,sintetico_manual,es
+M006,La transferencia se realizó sin problemas.,positivo,sintetico_manual,es
+M028,El servicio fue lento y poco claro.,negativo,sintetico_manual,es
+M033,Me cobraron una comisión que no esperaba.,negativo,sintetico_manual,es
+M020,Me enviaron un correo con las condiciones.,neutral,sintetico_manual,es
+M031,El sistema se bloquea cada vez que intento pagar.,negativo,sintetico_manual,es
+M026,Estoy molesto por la demora en la atención.,negativo,sintetico_manual,es
+M023,Consulté las opciones de transferencia.,neutral,sintetico_manual,es
+M027,No resolvieron mi problema después de varios intentos.,negativo,sintetico_manual,es
+M032,La respuesta del equipo fue insuficiente.,negativo,sintetico_manual,es
+M011,El trámite fue sencillo y rápido.,positivo,sintetico_manual,es
+M012,Recibí una explicación completa y útil.,positivo,sintetico_manual,es
+M029,La transferencia se rechazó sin explicación.,negativo,sintetico_manual,es
+M009,La solución llegó antes de lo esperado.,positivo,sintetico_manual,es
+M021,El trámite requiere una identificación vigente.,neutral,sintetico_manual,es
+M017,El sistema muestra el historial de movimientos.,neutral,sintetico_manual,es
+M036,La información proporcionada fue confusa.,negativo,sintetico_manual,es
+M007,El proceso fue claro y muy cómodo.,positivo,sintetico_manual,es
+M025,La aplicación falla constantemente al ingresar.,negativo,sintetico_manual,es
+M001,La atención fue rápida y resolvieron mi solicitud.,positivo,sintetico_manual,es
+M035,No recibí ayuda para solucionar el error.,negativo,sintetico_manual,es
+M014,La sucursal abre a las nueve de la mañana.,neutral,sintetico_manual,es
+M019,La aplicación tiene una sección de pagos.,neutral,sintetico_manual,es
+M003,Estoy satisfecho con la respuesta del equipo.,positivo,sintetico_manual,es
+M034,El trámite tardó demasiado tiempo.,negativo,sintetico_manual,es
+M030,Tuve una experiencia frustrante con el soporte.,negativo,sintetico_manual,es
+M022,El servicio está disponible desde el portal.,neutral,sintetico_manual,es
+M004,El servicio superó mis expectativas.,positivo,sintetico_manual,es
+M024,El contrato contiene las tarifas actuales.,neutral,sintetico_manual,es
+M005,Me atendieron con amabilidad y eficiencia.,positivo,sintetico_manual,es
+M015,Hoy consulté el saldo de mi cuenta.,neutral,sintetico_manual,es
+M016,Necesito información sobre los requisitos.,neutral,sintetico_manual,es
+M018,Solicité una cita para el próximo lunes.,neutral,sintetico_manual,es
+M002,La aplicación funciona muy bien y es sencilla.,positivo,sintetico_manual,es
+M008,Excelente experiencia con el soporte.,positivo,sintetico_manual,es

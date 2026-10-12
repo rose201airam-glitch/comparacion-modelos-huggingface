@@ -1,0 +1,4 @@
+modelo,accuracy,precision_macro,recall_macro,f1_macro,latencia_media_ms,latencia_p95_ms,carga_s,n,dispositivo
+cardiffnlp/twitter-xlm-roberta-base-sentiment,0.972222,0.974359,0.972222,0.972174,11.643426,15.383945,26.132527,36,Tesla T4
+lxyuan/distilbert-base-multilingual-cased-sentiments-student,0.472222,0.404187,0.472222,0.412698,4.829484,5.365678,10.651309,36,Tesla T4
+nlptown/bert-base-multilingual-uncased-sentiment,0.777778,0.84127,0.777778,0.741026,8.905761,9.668402,61.754059,36,Tesla T4
